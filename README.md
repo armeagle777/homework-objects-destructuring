@@ -22,6 +22,15 @@
 ➡️ [Solution](./2_getProperties.js)
 
 </details>
+<details>
+    <summary> 3. Concatenate two arrays</summary>
+    <br>
+    
+➡️ Task: Concatenate the two arrays
+
+➡️ [Solution](./3_concatenate.js)
+
+</details>
 
 ## Built With
 
