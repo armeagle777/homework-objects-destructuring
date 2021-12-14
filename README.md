@@ -69,6 +69,18 @@ displayed. This is calculated by subtracting the number of downvotes from upvote
 
 </details>
 <details>
+    <summary> 8. 50, 30, 20 </summary>
+    <br>
+    
+➡️ Task: The 50-30-20 strategy is a simple way to budget, which involves spending 50% of after-tax income on
+needs, 30% after tax income on wants, and 20% after-tax income on savings or paying off debt.
+Given the after-tax income as ati, what you are supposed to do is to make a function that will return an
+object that shows how much a person needs to spend on needs, wants, and savings.
+
+➡️ [Solution](./incomes.js)
+
+</details>
+<details>
     <summary> 16. Return an object without the entries that evaluate to NaN.</summary>
     <br>
     
