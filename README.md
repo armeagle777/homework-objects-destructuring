@@ -31,6 +31,15 @@
 ➡️ [Solution](./3_concatenate.js)
 
 </details>
+<details>
+    <summary> 4. Take arguments in a function</summary>
+    <br>
+    
+➡️ Task: How to take arguments in sum function?
+
+➡️ [Solution](./4_arguments.js)
+
+</details>
 
 ## Built With
 
