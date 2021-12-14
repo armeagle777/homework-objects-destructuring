@@ -81,6 +81,16 @@ object that shows how much a person needs to spend on needs, wants, and savings.
 
 </details>
 <details>
+    <summary> 9. Facts about city </summary>
+    <br>
+    
+➡️ Task: Create a function that takes an object as an argument and returns a string with facts about the city. The city
+facts will need to be extracted from the object's three properties:
+
+➡️ [Solution](./cityFacts.js)
+
+</details>
+<details>
     <summary> 16. Return an object without the entries that evaluate to NaN.</summary>
     <br>
     
