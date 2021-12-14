@@ -40,7 +40,15 @@
 ➡️ [Solution](./4_arguments.js)
 
 </details>
+<details>
+    <summary> 16. Return an object without the entries that evaluate to NaN.</summary>
+    <br>
+    
+➡️ Task: You receive an object with nested objects with strings as values. Convert their values to
+number and return an object without the entries that evaluate to NaN.
+➡️ [Solution](./notNanEntries.js)
 
+</details>
 ## Built With
 
 - Vanilla JavaScript
