@@ -91,6 +91,16 @@ facts will need to be extracted from the object's three properties:
 
 </details>
 <details>
+    <summary> 10. Operations with elements </summary>
+    <br>
+    
+➡️ Task: Create a function that takes infinite count of elements, operator and prints their sum. If there's no
+operator, then default should be +
+
+➡️ [Solution](./operationsWithElements.js)
+
+</details>
+<details>
     <summary> 16. Return an object without the entries that evaluate to NaN.</summary>
     <br>
     
