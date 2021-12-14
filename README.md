@@ -50,6 +50,15 @@
 
 </details>
 <details>
+    <summary> 6. Swap values </summary>
+    <br>
+    
+➡️ Task: Swapping Values using the Destructuring Assignment
+
+➡️ [Solution](./swapValues.js)
+
+</details>
+<details>
     <summary> 16. Return an object without the entries that evaluate to NaN.</summary>
     <br>
     
