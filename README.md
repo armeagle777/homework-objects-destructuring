@@ -59,6 +59,16 @@
 
 </details>
 <details>
+    <summary> 7. Upvotes and Downvotes </summary>
+    <br>
+    
+➡️ Task: Given an object containing counts of both upvotes and downvotes, return what vote count should be
+displayed. This is calculated by subtracting the number of downvotes from upvotes.
+
+➡️ [Solution](./upvotesDownvotes.js)
+
+</details>
+<details>
     <summary> 16. Return an object without the entries that evaluate to NaN.</summary>
     <br>
     
