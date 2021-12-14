@@ -41,12 +41,21 @@
 
 </details>
 <details>
+    <summary> 5. Pass arguments in sum function</summary>
+    <br>
+    
+➡️ Task: How to pass arguments in sum function?
+
+➡️ [Solution](./passArguments.js)
+
+</details>
+<details>
     <summary> 16. Return an object without the entries that evaluate to NaN.</summary>
     <br>
     
 ➡️ Task: You receive an object with nested objects with strings as values. Convert their values to
 number and return an object without the entries that evaluate to NaN.
-➡️ [Solution](./notNanEntries.js)
+➡️ [Solution](./nanEntries.js)
 
 </details>
 ## Built With
