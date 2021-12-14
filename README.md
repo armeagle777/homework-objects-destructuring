@@ -1,0 +1,27 @@
+# implemented_array_methods
+
+<p align="center">This branch is made for hometasks</p>
+
+## Tasks
+
+<details>
+    <summary> 1. Error assignment</summary>
+    <br>
+    
+➡️ Task: Fix code run error
+
+➡️ [Solution](./errorAssignment.js)
+
+</details>
+
+## Built With
+
+- Vanilla JavaScript
+
+## Author
+
+**Tigran Yeranyan**
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️⭐️⭐️⭐️⭐️ if you like this project!
