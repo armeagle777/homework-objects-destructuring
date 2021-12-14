@@ -13,6 +13,15 @@
 ➡️ [Solution](./errorAssignment.js)
 
 </details>
+<details>
+    <summary> 2. Get name, country and job of an object</summary>
+    <br>
+    
+➡️ Task: Get name, country and jod using destructuring
+
+➡️ [Solution](./2_getProperties.js)
+
+</details>
 
 ## Built With
 
