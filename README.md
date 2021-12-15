@@ -109,6 +109,15 @@ number and return an object without the entries that evaluate to NaN.
 ➡️ [Solution](./nanEntries.js)
 
 </details>
+<details>
+    <summary> 17. Frequency Distribution.</summary>
+    <br>
+    
+➡️ Task: Create a function that returns the frequency distribution of an array. This function should return an object,
+where the keys are the unique elements and the values are the frequency in which those elements occur.
+➡️ [Solution](./frequencies.js)
+
+</details>
 ## Built With
 
 - Vanilla JavaScript
