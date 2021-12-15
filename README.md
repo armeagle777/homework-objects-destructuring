@@ -106,7 +106,7 @@ operator, then default should be +
     
 ➡️ Task: You receive an object with nested objects with strings as values. Convert their values to
 number and return an object without the entries that evaluate to NaN.
-➡️ [Solution](./nanEntries.js)
+➡️ [Solution](./tries.js)
 
 </details>
 <details>

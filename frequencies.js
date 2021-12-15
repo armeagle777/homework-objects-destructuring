@@ -2,12 +2,13 @@
 //TODO:   where the keys are the unique elements and the values are the frequency in which those elements occur.
 
 function getFrequencies(arr) {
-  const resultObj = {};
-  for (let el of arr) {
-    resultObj[el] = resultObj[el] ? resultObj[el] + 1 : 1;
-  }
-  return resultObj;
+    const resultObj = {};
+    for (let el of arr) {
+        resultObj[el] = resultObj[el] ? resultObj[el] + 1 : 1;
+    }
+    return resultObj;
 }
+
 
 //? Testing for some arrays
 console.log(getFrequencies(['A', 'B', 'A', 'A', 'A'])); // { A: 4, B: 1 }
